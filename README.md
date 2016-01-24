@@ -1,1 +1,4 @@
-# community_standards
+Community Standards
+===================
+
+A place to keep community standards documents.
