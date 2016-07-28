@@ -10,3 +10,10 @@ with communities, and being an entrepreneur in the 21st century.
 
 If you have questions or concerns please contact me at the `github` email
 address on my website anthonymcook.com.
+
+Summary
+-------
+
+- Code - Apache 2.0 License
+- Documentation - CC BY-SA 4.0
+- Community - Be nice.
