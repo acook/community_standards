@@ -19,11 +19,16 @@ Sockpuppeting, astroturfing, trolling, and flamebaiting the community is strictl
 
 Hate speech, use of prejudicial epithets, calls to violence, abuse of power, encouragement of harm to others or self-harm, are all strictly forbidden. 
 
+If your ideology (such as political affiliation) or behaviour conflicts with these guidelines you may be excluded from Community Spaces.
+
 If you witness any of the above in a Community Space, please contact the Community Standards Team immediately.
 
 Use of this Document
 --------------------
 
-It is a part of every member’s role to maintain self-awareness of their own behavior and unless you are on the Community Standards Team, It is not your responsibility to police the words and actions of anyone else in the community. 
+Individuals who violate these guidelines will be excluded from Community Spaces. A discussion preceeding this act may be warranted, but is not required and will be handled on a case-by-case basis.
 
-Public appeals to this document are generally frowned upon.
+It is an important part of every member's role to maintain self-awareness of their own behavior and unless you are on the Community Standards Team, it is not your responsibility to police the words and actions of anyone else in the community. 
+
+Reporting violations of these guidelines will not be retaliated against and will be kept anonymous unless the reporter requests otherwise. However, misuse of these guidelines to bully members is not within the spirit of the community and will be trated as harassment and dealt with accordingly.
+
