@@ -1,9 +1,13 @@
 *********************************************************************
 
-CLASSPATH-STYLE EXCEPTION FOR LIBRARIES
+"CLASSPATH" EXCEPTION TO THE AGPL
 
 This software is distributed under the terms of the GNU Affero General Public
 License with the following clarification and special exception.
+
+Linking this library statically or dynamically with other modules is making
+a combined work based on this library.  Thus, the terms and conditions of
+the GNU General Public License cover the whole combination.
 
 As a special exception, the copyright holders of this library give you
 permission to link this library with independent modules to produce an
@@ -15,11 +19,6 @@ which is not derived from or based on this library. If you modify this library,
 you may extend this exception to your version of the library, but you are not
 obligated to do so. If you do not wish to do so, delete this exception
 statement from your version.
-
-As such, it can be used to run, create and distribute a large class of
-applications and applets. When this software is used unmodified as a Ruby Gem,
-Java Class, or other library it does not affect the licensing for distributing
-those programs directly.
 
 *********************************************************************
 
